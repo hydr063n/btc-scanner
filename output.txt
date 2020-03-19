@@ -1,0 +1,2 @@
+address, btc balance
+"12bFEwwFSorYwCC36Km8JEpErx5vWVmEZx", "0.51150496"
